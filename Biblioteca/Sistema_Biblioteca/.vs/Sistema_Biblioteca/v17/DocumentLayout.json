@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|d:\\usuario\\desktop\\personal\\biblioteca\\sistema_biblioteca\\logicanegocio\\valueobjects\\emailusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\valueobjects\\emailusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|d:\\usuario\\desktop\\personal\\biblioteca\\sistema_biblioteca\\logicanegocio\\interfacesrepositorio\\irepositoriolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorio\\irepositoriolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|d:\\usuario\\desktop\\personal\\biblioteca\\sistema_biblioteca\\logicanegocio\\interfacesrepositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorio\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|d:\\usuario\\desktop\\personal\\biblioteca\\sistema_biblioteca\\logicanegocio\\interfacesdominio\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesdominio\\ivalidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|d:\\usuario\\desktop\\personal\\biblioteca\\sistema_biblioteca\\logicanegocio\\entidadesdominio\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\socio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|d:\\usuario\\desktop\\personal\\biblioteca\\sistema_biblioteca\\logicanegocio\\entidadesdominio\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|d:\\usuario\\desktop\\personal\\biblioteca\\sistema_biblioteca\\logicanegocio\\entidadesdominio\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|d:\\usuario\\desktop\\personal\\biblioteca\\sistema_biblioteca\\logicanegocio\\valueobjects\\telefonousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\valueobjects\\telefonousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|d:\\usuario\\desktop\\personal\\biblioteca\\sistema_biblioteca\\logicanegocio\\valueobjects\\titulolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\valueobjects\\titulolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|d:\\usuario\\desktop\\personal\\biblioteca\\sistema_biblioteca\\logicanegocio\\interfacesrepositorio\\irepositoriosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorio\\irepositoriosocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|d:\\usuario\\desktop\\personal\\biblioteca\\sistema_biblioteca\\logicanegocio\\interfacesrepositorio\\irepositorioprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE445E7A-70AC-44B0-B632-473412E07BDD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorio\\irepositorioprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TelefonoUsuario.cs",
+              "DocumentMoniker": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\ValueObjects\\TelefonoUsuario.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ValueObjects\\TelefonoUsuario.cs",
+              "ToolTip": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\ValueObjects\\TelefonoUsuario.cs",
+              "RelativeToolTip": "LogicaNegocio\\ValueObjects\\TelefonoUsuario.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:58:55.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailUsuario.cs",
+              "DocumentMoniker": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\ValueObjects\\EmailUsuario.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ValueObjects\\EmailUsuario.cs",
+              "ToolTip": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\ValueObjects\\EmailUsuario.cs",
+              "RelativeToolTip": "LogicaNegocio\\ValueObjects\\EmailUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:58:36.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TituloLibro.cs",
+              "DocumentMoniker": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\ValueObjects\\TituloLibro.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ValueObjects\\TituloLibro.cs",
+              "ToolTip": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\ValueObjects\\TituloLibro.cs",
+              "RelativeToolTip": "LogicaNegocio\\ValueObjects\\TituloLibro.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:58:17.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepositorioSocio.cs",
+              "DocumentMoniker": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioSocio.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorio\\IRepositorioSocio.cs",
+              "ToolTip": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioSocio.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorio\\IRepositorioSocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:52:28.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepositorioPrestamo.cs",
+              "DocumentMoniker": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioPrestamo.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorio\\IRepositorioPrestamo.cs",
+              "ToolTip": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioPrestamo.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorio\\IRepositorioPrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:51:40.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepositorioLibro.cs",
+              "DocumentMoniker": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioLibro.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorio\\IRepositorioLibro.cs",
+              "ToolTip": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\InterfacesRepositorio\\IRepositorioLibro.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorio\\IRepositorioLibro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:49:46.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs",
+              "ToolTip": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorio\\IRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:48:59.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IValidable.cs",
+              "DocumentMoniker": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\InterfacesDominio\\IValidable.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesDominio\\IValidable.cs",
+              "ToolTip": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\InterfacesDominio\\IValidable.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesDominio\\IValidable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:34:56.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\EntidadesDominio\\Prestamo.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Prestamo.cs",
+              "ToolTip": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\EntidadesDominio\\Prestamo.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Prestamo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:30:41.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Socio.cs",
+              "DocumentMoniker": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\EntidadesDominio\\Socio.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Socio.cs",
+              "ToolTip": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\EntidadesDominio\\Socio.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Socio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:29:13.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\EntidadesDominio\\Libro.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Libro.cs",
+              "ToolTip": "D:\\USUARIO\\Desktop\\PERSONAL\\Biblioteca\\Sistema_Biblioteca\\LogicaNegocio\\EntidadesDominio\\Libro.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Libro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T20:23:49.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
